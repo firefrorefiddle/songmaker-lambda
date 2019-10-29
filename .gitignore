@@ -1,0 +1,4 @@
+.stack-work/
+songmaker-lambda.cabal
+build/
+*~
